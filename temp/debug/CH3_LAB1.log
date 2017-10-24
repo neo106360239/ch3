@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(372,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  a.c
+e:\ch3\ch3_lab1\ch3_lab1\a.c(16): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+  e:\ch3\ch3_lab1\ch3_lab1\a.c(16): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+  e:\ch3\ch3_lab1\ch3_lab1\a.c(16): note: 缺少 variadic 引數 2 (其為格式字串 '%c' 所需)
+  e:\ch3\ch3_lab1\ch3_lab1\a.c(16): note: 此引數可用為緩衝區大小
+e:\ch3\ch3_lab1\ch3_lab1\a.c(39): error C2449: 於檔案範圍找到 '{' (遺漏函式標頭?
+e:\ch3\ch3_lab1\ch3_lab1\a.c(45): error C2059: 語法錯誤: '}'
+e:\ch3\ch3_lab1\ch3_lab1\a.c(48): error C2449: 於檔案範圍找到 '{' (遺漏函式標頭?
+e:\ch3\ch3_lab1\ch3_lab1\a.c(54): error C2059: 語法錯誤: '}'
+e:\ch3\ch3_lab1\ch3_lab1\a.c(57): error C2449: 於檔案範圍找到 '{' (遺漏函式標頭?
+e:\ch3\ch3_lab1\ch3_lab1\a.c(60): error C2059: 語法錯誤: '}'
